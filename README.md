@@ -1,0 +1,2 @@
+# NewsScope
+News Scope
